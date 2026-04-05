@@ -49,6 +49,7 @@ jobs:
           git add -A
           git diff --staged --quiet && echo "No version changes (unexpected)" && exit 1 || true
           git commit -m "chore: bump version [skip ci]"
+          git pull --rebase origin main
           git push origin main
 
       - name: Deploy to Cloudflare Pages
