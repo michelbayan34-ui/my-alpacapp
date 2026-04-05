@@ -1,12 +1,12 @@
 {
-  "version": "v260405.01 4:38p",
-  "release": 1,
-  "sha": "eb64272",
-  "fullSha": "eb642729aaf7c792303c26b94a347260a9d57e66",
+  "version": "v260405.02 4:58p",
+  "release": 3,
+  "sha": "c21d012",
+  "fullSha": "c21d012d1bd3cbd1eea5878ee79d5be6e7a626ea",
   "actor": "michelbayan34-ui",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm727z3",
-  "pushedAt": "2026-04-05 21:38:53+00",
-  "commits": [{"sha":"eb64272","message":"Add local.env to gitignore for secrets management","author":"Michel Bayan"}]
+  "pushedAt": "2026-04-05 21:58:17+00",
+  "commits": [{"sha":"c21d012","message":"Fix CI: pull --rebase before pushing version bump","author":"Michel Bayan"}]
 }
