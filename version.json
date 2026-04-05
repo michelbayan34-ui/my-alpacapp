@@ -1,12 +1,12 @@
 {
-  "version": "v260405.02 4:44p",
-  "release": 2,
-  "sha": "5db2fba",
-  "fullSha": "5db2fbace5613c5c8d84287898a54e0a4f6df424",
-  "actor": "rsonnad",
+  "version": "v260405.03 7:09p",
+  "release": 3,
+  "sha": "e0012aa",
+  "fullSha": "e0012aa119de68bb674f7579200a0a11728d1093",
+  "actor": "michelbayan34-ui",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm727z3",
-  "pushedAt": "2026-04-05T11:44:07-05:00",
-  "commits": [{"sha":"5db2fba","message":"Fix: features default to false for new setups, not true","author":"Rahul"}]
+  "pushedAt": "2026-04-05T15:08:45-04:00",
+  "commits": []
 }
