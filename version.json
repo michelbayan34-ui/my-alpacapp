@@ -1,12 +1,12 @@
 {
-  "version": "v260405.04 7:30p",
-  "release": 4,
-  "sha": "dc7d062",
-  "fullSha": "dc7d0625375e3a5f9ec597812803785cea49c0e0",
+  "version": "v260405.01 4:38p",
+  "release": 1,
+  "sha": "eb64272",
+  "fullSha": "eb642729aaf7c792303c26b94a347260a9d57e66",
   "actor": "michelbayan34-ui",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm727z3",
-  "pushedAt": "2026-04-05T15:30:43-04:00",
-  "commits": [{"sha":"dc7d062","message":"Configure Supabase credentials","author":"Michel Bayan"}]
+  "pushedAt": "2026-04-05 21:38:53+00",
+  "commits": [{"sha":"eb64272","message":"Add local.env to gitignore for secrets management","author":"Michel Bayan"}]
 }
